@@ -1,4 +1,4 @@
-# Color Quantization using KMeans Clustering
+# Color Quantization Using KMeans Clustering
 
 This project applies KMeans clustering for color quantization or palette generation on digital images. The goal is to reduce the number of colors in an image while preserving its visual quality as much as possible.
 
